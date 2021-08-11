@@ -1,0 +1,1 @@
+This is a new file created in the browser and being pulled to the local repo via Bash command line.  It is being created in the remote repository.
